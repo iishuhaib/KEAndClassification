@@ -1,3 +1,3 @@
 # KEAndClassification
 Master repository
-Following changes will be made..
+Following changes will be made....
